@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity()
     companion object
     {
         val TAG = "MainActivity"
+        val USELESSPI = 3
     }
     override fun onCreate(savedInstanceState: Bundle?)
     {
